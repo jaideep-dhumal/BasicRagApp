@@ -1,0 +1,4 @@
+# RAG App Requirements
+transformers
+sentence-transformers
+scikit-learn
